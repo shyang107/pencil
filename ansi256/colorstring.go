@@ -1,6 +1,6 @@
 package ansi256
 
-import "github.com/shyang107/go-twinvoices/pencil"
+import "github.com/shyang107/pencil"
 
 // Standard colors 0-7
 

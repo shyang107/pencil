@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/shyang107/go-twinvoices/pencil"
+	"github.com/shyang107/pencil"
 )
 
 var (

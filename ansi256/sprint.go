@@ -1,7 +1,7 @@
 package ansi256
 
 import "fmt"
-import "github.com/shyang107/go-twinvoices/pencil"
+import "github.com/shyang107/pencil"
 
 // Sprint is just like Print, but returns a string instead of printing it.
 func (c *Color) Sprint(a ...interface{}) string {

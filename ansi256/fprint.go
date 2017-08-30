@@ -5,7 +5,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/shyang107/go-twinvoices/pencil"
+	"github.com/shyang107/pencil"
 )
 
 // Fprint formats using the default formats for its operands and writes to w.

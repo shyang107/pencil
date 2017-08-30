@@ -5,7 +5,7 @@ import (
 	"image/color"
 	"strings"
 
-	"github.com/shyang107/go-twinvoices/pencil"
+	"github.com/shyang107/pencil"
 )
 
 // Print formats using the default formats for its operands and writes to

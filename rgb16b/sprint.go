@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"image/color"
 
-	"github.com/shyang107/go-twinvoices/pencil"
+	"github.com/shyang107/pencil"
 )
 
 // Sprint is just like Print, but returns a string instead of printing it.

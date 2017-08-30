@@ -1,6 +1,6 @@
 package rgb16b
 
-import "github.com/shyang107/go-twinvoices/pencil"
+import "github.com/shyang107/pencil"
 
 // SetAttribute set the attributes of the object "Color"
 func (c *Color) SetAttribute(attrs ...pencil.Attribute) {
